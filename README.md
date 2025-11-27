@@ -19,6 +19,7 @@ It provides the current weather and a detailed forecast for the next 5 days for 
 3. Search: Click on the "Search" button.
 4. Current Location: Optionally, click the "Use Current Location" button to retrieve weather information using your
                      device's GPS data.
+   
 5.View Data: See the current weather in the main dashboard and the 5-day forecast in the cards below.
 
 🛠️ Technologies Used
