@@ -1,12 +1,12 @@
 # Weather-Application
 
 This is a modern and responsive web application built using HTML, CSS (Tailwind), and JavaScript. 
-It provides the current weather and a detailed forecast for the next 6 days for any city you search.
+It provides the current weather and a detailed forecast for the next 5 days for any city you search.
 
 ✨ Key Features
 
 1. Current Weather: Displays real-time temperature, wind speed, and humidity for the selected city.
-2. 6-Day Forecast: Shows the weather forecast for the next six days (following the current day) in a clear card format.
+2. 5-Day Forecast: Shows the weather forecast for the next fiv days (following the current day) in a clear card format.
 3. City Search: Easily search for weather data by entering the name of any city.
 4. Geolocation: Uses your current geographical location with a single button click to automatically retrieve weather data.
 5. Temperature Unit: Displays temperature in Celsius (°C).
@@ -18,7 +18,7 @@ It provides the current weather and a detailed forecast for the next 6 days for 
 2. Enter a City: Type the name of any city (e.g., Mumbai, London, Tokyo) in the "Enter a City Name" field.
 3. Search: Click on the "Search" button.
 4. Current Location: Optionally, click the "Use Current Location" button to retrieve weather information using your device's GPS data.
-5.View Data: See the current weather in the main dashboard and the 6-day forecast in the cards below.
+5.View Data: See the current weather in the main dashboard and the 5-day forecast in the cards below.
 
 🛠️ Technologies Used
 
